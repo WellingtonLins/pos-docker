@@ -164,3 +164,5 @@ Nós usamos o [Git](https://git-scm.com/) .
 ## Here I can listen you call my name: 
 
 wellingtonlins2013@gmail.com
+
+#### Tell me your problems and doubts...
